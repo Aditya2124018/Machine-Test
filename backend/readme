@@ -1,1 +1,3 @@
-readme
+First run command npm install 
+then add your own database URL in .env 
+then run command npm run start to live the server
